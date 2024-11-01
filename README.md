@@ -4,7 +4,7 @@ This project creates a grid of the first 151 Pokémon images using HTML, CSS, an
 them in the browser.
 
 
-Table of Contents
+Table of Contents:
 
 Installation
 
